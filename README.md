@@ -33,7 +33,6 @@ Step-by-step instructions on how to install and set up the project.
 ```bash
 # Example installation commands
 git clone https://github.com/GreedInc/3IL-TD-12-2023.git
-git switch 3IL-TD-10-2025
 cd your-project
 ./gradlew build
 ```
