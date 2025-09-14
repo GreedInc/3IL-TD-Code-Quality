@@ -23,15 +23,15 @@ package com.rodez.demo;
  */
 public class FizzBuzz {
 
-  /**
-   * Plays the FizzBuzz game for a given number and returns the corresponding
-   * output.
-   *
-   * @param number The input number for the FizzBuzz game.
-   * @return The FizzBuzz output as a String.
-   * @throws IllegalArgumentException If the input number is less than 1.
-   */
-  public String play(int number) {
-    return null;
-  }
+    /**
+     * Plays the FizzBuzz game for a given number and returns the corresponding
+     * output.
+     *
+     * @param number The input number for the FizzBuzz game.
+     * @return The FizzBuzz output as a String.
+     * @throws IllegalArgumentException If the input number is less than 1.
+     */
+    public static String play(int number) {
+        return null;
+    }
 }
