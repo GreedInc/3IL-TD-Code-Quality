@@ -1,6 +1,6 @@
-# Exercises TD 3IL Rodez 10/2025
+# Exercises TD 3IL Rodez 10/2026
 
-Exercises to do during the TD session (10/2025).
+Exercises to do during the TD session (10/2026).
 
 ## Implements FizzBuzz algorithm in the class FizzBuzz.java.
 The method must return the provided number in parameter with the following exceptions:
